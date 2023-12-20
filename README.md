@@ -54,3 +54,11 @@ After following the setup steps you are able to generate your first requests whi
 **Note:** In a productive environment we would use a Key-Vault to store credentials. Further in the code you will see a part where a the file is retrieved with the credentials. Even it's less secure, we don't use more strict requirements as it serves the sake of simplicity.
 
 **Good news - You are done with paperwork!**
+
+## 🤝 Final word
+Congratulations on reaching this point and reading through it! I consistently prioritize quality over quantity. Your feedback and input are, as always, greatly appreciated. Let's make this world a better place in a collaborative open-source manner.
+
+Thank you for every reaction - it means a lot! 🙌
+
+## ⚖️ Disclaimer
+Use this notebook and Google Cloud Console at your own risk. I am not responsible for any financial charges that may occur as a result of running the provided code. Please ensure you understand the costs associated with the services used in this notebook, and monitor your usage to avoid unexpected charges.
