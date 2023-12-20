@@ -2,6 +2,8 @@
 
 As everybody should have heard of at least by now, is that Google released a new flagship model called [Gemini](https://blog.google/technology/ai/google-gemini-ai/). I won't go into its capabilities but rather into how to access it. Currently there is an API-Key role-out for [specific regions](https://ai.google.dev/available_regions) only. Those locations can [obtain an API-Key using the makersuite](https://makersuite.google.com/) **but all other countries below cannot!**
 
+![gemini_pro_no_api_wallpaper](https://github.com/EtienneKaiser/gemini-pro-no-api-key/assets/102538187/4c530c49-9d27-438f-b3f8-93ddb68909ac)
+
 ## 🛒 What ingredients do we need?
 
 - A Google Cloud Console Account - some regions offer $300 bucks trial balance, we don't need it!
